@@ -35,10 +35,10 @@
 }
 
 @media screen and (max-width: 600px) {
-	.column {
+	 .column {
     width: 100%;
-
-  }}
+  }
+	}
 
 .img {
   height: 50px;
